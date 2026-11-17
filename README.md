@@ -1,2 +1,2 @@
-# miage-connect
-Plateforme communautaire et vitrine des projets MIAGE : Projet de communication M1
+# MIAGEHub
+Le porfolio de la formation MIAGE : Projet de communication M1
